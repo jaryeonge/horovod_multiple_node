@@ -1,0 +1,1 @@
+{"unk_token": "<unk>", "bos_token": "<s>", "eos_token": "</s>", "pad_token": "<pad>", "do_lower_case": false, "word_delimiter_token": "|", "special_tokens_map_file": null, "tokenizer_file": null, "name_or_path": "fleek/wav2vec-large-xlsr-korean", "tokenizer_class": "Wav2Vec2CTCTokenizer"}
